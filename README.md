@@ -39,7 +39,7 @@ Ensure you have the following installed:
 Clone the project repository:
 
 ```bash
-git clone hhttps://github.com/Some0ne11/intro-to-networks.git
+git clone https://github.com/Some0ne11/intro-to-networks.git
 ```
 
 <h3>Files Overview</h3>
