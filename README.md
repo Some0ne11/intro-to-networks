@@ -89,7 +89,7 @@ git clone https://github.com/Some0ne11/intro-to-networks.git
 </td>
 
 <td align="center">
-<a href="https://github.com/">
+<a href="https://github.com/bringback1899">
 <img src="https://avatars.githubusercontent.com/" width="100px;" alt="Profile Picture"/><br>
 <sub>
 <b>Lim Wei Ling</b>
@@ -99,7 +99,7 @@ git clone https://github.com/Some0ne11/intro-to-networks.git
 
 <td align="center">
 <a href="https://github.com/">
-<img src="https://avatars.githubusercontent.com/" width="100px;" alt="Profile Picture"/><br>
+<img src="https://avatars.githubusercontent.com/u/164884629?v=4" width="100px;" alt="Profile Picture"/><br>
 <sub>
 <b>Ashman bin Mohd Fauzi</b>
 </sub>
